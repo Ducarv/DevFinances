@@ -1,19 +1,23 @@
-# DevFinances
-dev.finances
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-rocket Tecnologias
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
-computer Projeto
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída moneybag
+- HTML
+- CSS
+- JavaScript
 
-bookmark Layout
-Você pode visualizar o layout do projeto através desse link. É necessário ter conta no Figma para acessá-lo.
+## 💻 Projeto
 
-memo Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Feito com hearts by Rocketseat wave Participe da nossa comunidade!
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
